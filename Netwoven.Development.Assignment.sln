@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2E47C33D-79CC-47E6-BC96-58026A045805}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2CB376B6-3D11-462C-B213-AE9D2F8563BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netwoven.Development.Assignment.DataLoader", "src\Netwoven.Development.Assignment.DataLoader\Netwoven.Development.Assignment.DataLoader.csproj", "{F897DE9A-0DC8-4F7A-9020-D7AC6E9E0117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netwoven.Development.Assignment.Domain", "src\Netwoven.Development.Assignment.Domain\Netwoven.Development.Assignment.Domain.csproj", "{69007D2B-F4AE-4D57-8F7B-CF3FFD03ACC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netwoven.Development.Assignment.API", "src\Netwoven.Development.Assignment.API\Netwoven.Development.Assignment.API.csproj", "{84EB5CE7-312F-4051-B5DD-EF2436D852AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Netwoven.Development.Assignment.Presentation", "src\Netwoven.Development.Assignment.Presentation\Netwoven.Development.Assignment.Presentation.csproj", "{F6AB15A7-78C6-472D-8126-2A728077D6FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F897DE9A-0DC8-4F7A-9020-D7AC6E9E0117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F897DE9A-0DC8-4F7A-9020-D7AC6E9E0117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F897DE9A-0DC8-4F7A-9020-D7AC6E9E0117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F897DE9A-0DC8-4F7A-9020-D7AC6E9E0117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69007D2B-F4AE-4D57-8F7B-CF3FFD03ACC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69007D2B-F4AE-4D57-8F7B-CF3FFD03ACC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69007D2B-F4AE-4D57-8F7B-CF3FFD03ACC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69007D2B-F4AE-4D57-8F7B-CF3FFD03ACC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84EB5CE7-312F-4051-B5DD-EF2436D852AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84EB5CE7-312F-4051-B5DD-EF2436D852AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84EB5CE7-312F-4051-B5DD-EF2436D852AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84EB5CE7-312F-4051-B5DD-EF2436D852AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AB15A7-78C6-472D-8126-2A728077D6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AB15A7-78C6-472D-8126-2A728077D6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AB15A7-78C6-472D-8126-2A728077D6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AB15A7-78C6-472D-8126-2A728077D6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F897DE9A-0DC8-4F7A-9020-D7AC6E9E0117} = {2E47C33D-79CC-47E6-BC96-58026A045805}
+		{69007D2B-F4AE-4D57-8F7B-CF3FFD03ACC5} = {2E47C33D-79CC-47E6-BC96-58026A045805}
+		{84EB5CE7-312F-4051-B5DD-EF2436D852AF} = {2E47C33D-79CC-47E6-BC96-58026A045805}
+		{F6AB15A7-78C6-472D-8126-2A728077D6FB} = {2E47C33D-79CC-47E6-BC96-58026A045805}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5136E671-156B-4BE5-A05D-7819417564C6}
+	EndGlobalSection
+EndGlobal

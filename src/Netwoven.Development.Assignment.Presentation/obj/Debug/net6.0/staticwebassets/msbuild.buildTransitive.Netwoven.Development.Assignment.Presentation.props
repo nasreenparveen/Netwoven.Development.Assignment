@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Netwoven.Development.Assignment.Presentation.props" />
+</Project>

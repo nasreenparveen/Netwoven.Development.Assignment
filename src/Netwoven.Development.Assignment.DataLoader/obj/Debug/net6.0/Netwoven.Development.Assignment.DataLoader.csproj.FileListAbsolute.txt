@@ -1,0 +1,15 @@
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\bin\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.exe
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\bin\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.deps.json
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\bin\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.runtimeconfig.json
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\bin\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.dll
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\bin\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.pdb
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.csproj.AssemblyReference.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.AssemblyInfoInputs.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.AssemblyInfo.cs
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.csproj.CoreCompileInputs.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.dll
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\refint\Netwoven.Development.Assignment.DataLoader.dll
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.pdb
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\Netwoven.Development.Assignment.DataLoader.genruntimeconfig.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.DataLoader\obj\Debug\net6.0\ref\Netwoven.Development.Assignment.DataLoader.dll

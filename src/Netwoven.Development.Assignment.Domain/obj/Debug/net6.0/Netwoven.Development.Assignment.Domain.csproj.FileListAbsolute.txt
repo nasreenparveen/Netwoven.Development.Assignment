@@ -1,0 +1,12 @@
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\bin\Debug\net6.0\Netwoven.Development.Assignment.Domain.deps.json
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\bin\Debug\net6.0\Netwoven.Development.Assignment.Domain.dll
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\bin\Debug\net6.0\Netwoven.Development.Assignment.Domain.pdb
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.csproj.AssemblyReference.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.AssemblyInfoInputs.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.AssemblyInfo.cs
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.csproj.CoreCompileInputs.cache
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.dll
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\refint\Netwoven.Development.Assignment.Domain.dll
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\Netwoven.Development.Assignment.Domain.pdb
+C:\Assignment\Netwoven.Development.Assignment\src\Netwoven.Development.Assignment.Domain\obj\Debug\net6.0\ref\Netwoven.Development.Assignment.Domain.dll

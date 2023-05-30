@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Netwoven.Development.Assignment.API.props" />
+</Project>
